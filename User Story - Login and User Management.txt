@@ -1,0 +1,9 @@
+1. Student enters his/her student number and password.
+2. When student hits login button, he/she will be authenticated via the API designed for this purpose.
+3. When student logins for the first time, he/she should update his profile.
+4. In the profile student should enter email, phone number, first name, last name and interests.
+5. When student completes his/her profile and hits the submit button, the message "Profile updated successfully" will appear.
+6. If the profile is incomplete and the student hits submit button, the message "Please fill the form completely" will appear.
+7. Student can determine whether his/her profile is visible to others.
+8. When student clickes on profile button s/he can see his/her profile.
+9. When student clickes on edit profile button, s/he can edit his/her profile.
