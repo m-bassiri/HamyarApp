@@ -34,7 +34,12 @@
 	6.1. The user searches the books based on filters.
 	6.2. The results of the search will be shown to the user.
 	6.3. The user sees the ad s/he wants by clicking on it.
-7. Events
-	7.1. The events will be shown to the user based on his/her profile.
-	7.2. The user can search among the events.
-	7.3. The user can see the description and the link of the event.
+7. Book Management
+	7.1. The book seller can delete or edit his/her books.
+	7.2. The user can see all of the books that s/he have or buy.
+	7.3. The buyer can remove his/her request for buying book. 
+	7.4. The user can finalize the deal
+8. Events
+	8.1. The events will be shown to the user based on his/her profile.
+	8.2. The user can search among the events.
+	8.3. The user can see the description and the link of the event.
