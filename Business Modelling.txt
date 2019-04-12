@@ -1,13 +1,8 @@
-*Requirements
-1. Students should be able to login to the system.
-2. Students should have a profile and be able to edit it.
-3. Students can see the events based on their interests.
-4. Students can sell and buy books to and from other students.
-5. Students can share their booklets with others and can search among the booklets and download the booklet they want.
 *Impacts on society
 1. The requirements mentioned above would be a lot easier.
 *Roles
 1. Student
+2. Admin
 *Processes
 1. Login Process
 	1.1. The user enters his/her student number and password.
