@@ -1,0 +1,21 @@
+*Use Case Name: Manage Events
+*ID: ?
+*Importance Level: High
+*Primary Actor: Admin
+*Use Case Type: Detail, Essential
+*Stakeholders and Interests:
+	Admin - wants to set the sites and feed that are the source of the events.
+*Brief Description: This use case describes how can the admin manage input feeds for the event module.
+*Trigger: The admin clickes on the "Manage Events" button. --> Type: External
+*Relationships:
+	Association: Admin, Show Events, Search Events
+	Include:
+	Extend:
+	Generalization:
+*Normal Flow of Events:
+	1. The admin sees the list of the events feeds.
+	2. The admin edits the list of the feeds.
+	3. The admin clicks on submit button.
+*Subflows:
+
+*Alternate/Exceptional Flows:

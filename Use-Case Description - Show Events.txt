@@ -1,0 +1,23 @@
+*Use Case Name: Show Events
+*ID: ?
+*Importance Level: High
+*Primary Actor: Student
+*Use Case Type: Detail, Essential
+*Stakeholders and Interests:
+	Student - wants to see the related events based on his/her interests.
+*Brief Description: This use case describes how the events are shown to the student based on the profile info.
+*Trigger: The student clickes on the "Events" button --> Type: External
+*Relationships:
+	Association: Student
+	Include:
+	Extend:
+	Generalization:
+*Normal Flow of Events:
+	1. The student clickes on the "Events" button.
+	2. The system will analyze the profile information.
+	3. The system will search among the sources given to it by admin.
+	4. The system will show the student the results desired.
+	5. The student clickes on an event and sees its details including description, time, price, registration link, etc.
+*Subflows:
+
+*Alternate/Exceptional Flows:

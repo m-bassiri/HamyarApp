@@ -1,0 +1,23 @@
+*Use Case Name: Search Events
+*ID: ?
+*Importance Level: Mid
+*Primary Actor: Student
+*Use Case Type: Detail, Essential
+*Stakeholders and Interests:
+	Student - wants to search among the events based on different filters.
+*Brief Description: This use case describes how the student can search among different events based on different filters.
+*Trigger: The student clickes on the "Search" button in Events section. --> Type: External
+*Relationships:
+	Association: Student, Show Events
+	Include:
+	Extend:
+	Generalization:
+*Normal Flow of Events:
+	1. The student types a text in the search box. the s/he wants to search about.
+	2. The student sets the filters specefied in the search page such as: price, place, category, etc.
+	3. The system searches among the sources and finds appropiate results.
+	4. The results will be shown to the user.
+	5. The student clickes on an event and sees its details including description, time, price, registration link, etc.
+*Subflows:
+
+*Alternate/Exceptional Flows:
