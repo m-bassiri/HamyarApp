@@ -1,0 +1,4 @@
+1. Admin sees the list of the events.
+2. If admin clickes on Manage Feeds button s/he can see the list of the sites that feed the events.
+3. Admin edits the sites.
+4. Admin clickes on submit button.
