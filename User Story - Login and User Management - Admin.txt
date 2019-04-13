@@ -1,2 +1,0 @@
-1. Admin shows the list of the members.
-2. If admin clickes on a user name s/he can see the profile details of that user.
