@@ -1,0 +1,20 @@
+*Use Case Name: Show the member list
+*ID: ?
+*Importance Level: Low
+*Primary Actor: Admin
+*Use Case Type: Detail, Essential
+*Stakeholders and Interests:
+	Admin - wants to see the list and the profile info of the students.
+*Brief Description: This use case describes how the admin can see the member list nd profile infos.
+*Trigger: The admin clicks on "Member List" button. --> Type: External
+*Relationships:
+	Association: Admin
+	Include:
+	Extend:
+	Generalization:
+*Normal Flow of Events:
+	1. The admin sees the list of the students.
+	2. If the admin clicks on an studnet user name, the profile info of this student will be shown to the admin.
+*Subflows:
+
+*Alternate/Exceptional Flows:

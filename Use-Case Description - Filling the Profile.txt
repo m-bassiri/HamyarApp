@@ -1,0 +1,23 @@
+*Use Case Name: Filling the profile
+*ID: ?
+*Importance Level: High
+*Primary Actor: Student
+*Use Case Type: Detail, Essential
+*Stakeholders and Interests:
+	Student - wants to enter the profile info.
+*Brief Description: This use case describes how the student will complete his/her profile.
+*Trigger: The student logins for the first time or clicks on "Edit Profile" button. --> Type: External
+*Relationships:
+	Association: Student, Login
+	Include:
+	Extend:
+	Generalization:
+*Normal Flow of Events:
+	1. The profile form will be shown to the student.
+	2. The student fills in the form.
+	3. The student clicks on submit button.
+	4. If the form is complete then the successful message will be shown to him/her.
+*Subflows:
+
+*Alternate/Exceptional Flows:
+	1. If the profile is not complete the appropriate message will be shown and s/he will be back to the form.
