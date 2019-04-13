@@ -43,3 +43,9 @@
 	9.2 he will browse the requests which are sorted by date that they are added
 	9.3 if there is nothing wrong with the request he will accept it 
 		if not he will reject it 
+10. Events Management
+	10.1. The admin sees the list of the events feeds.
+	10.2. The admin edits the list mentioned above.
+11. User Management
+	11.1. The admin sees the list of the users.
+	11.2. The admin clicks on a user and sees his/her profile info.
