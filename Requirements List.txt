@@ -32,3 +32,5 @@
 	4.1. Student sees the events based on his/her interests registered in his/her profile.
 	4.2. Student sees the events details listed in the result.
 	4.3. Student searches among the events.
+5. management 
+	5.1 manager should be able to verify the handouts
