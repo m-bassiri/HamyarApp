@@ -38,3 +38,8 @@
 	8.1. The events will be shown to the user based on his/her profile.
 	8.2. The user can search among the events.
 	8.3. The user can see the description and the link of the event.
+9. Managmenet for uploads
+	9.1 pending uploads will be shown in his notification tab
+	9.2 he will browse the requests which are sorted by date that they are added
+	9.3 if there is nothing wrong with the request he will accept it 
+		if not he will reject it 
