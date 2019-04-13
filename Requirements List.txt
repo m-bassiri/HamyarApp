@@ -23,7 +23,7 @@
 	2.1. Student uploads a booklet.
 	2.2. Student searches desired booklets.
 	2.3. Student downloads booklets he/she wants.
-	2.4. Student rates and comments booklets.
+	2.4. Student rates booklets.
 3. Book sale
 	3.1. Student registers an ad about a book he/she wants to sell.
 	3.2. Student sees the ads and sees the details of an ad he/she wants.
@@ -32,5 +32,5 @@
 	4.1. Student sees the events based on his/her interests registered in his/her profile.
 	4.2. Student sees the events details listed in the result.
 	4.3. Student searches among the events.
-5. management 
+5. management for uploads 
 	5.1 manager should be able to verify the handouts
