@@ -19,6 +19,7 @@
 	1.1. Student of the university logins to system.
 	1.2. Student updates his/her profile.
 	1.3. Student sees the profile of other users (if he/she has the right to)
+	1.4. Admin sees the list of the users and their profile info.
 2. Booklet sharing
 	2.1. Student uploads a booklet.
 	2.2. Student searches desired booklets.
@@ -33,4 +34,6 @@
 	4.2. Student sees the events details listed in the result.
 	4.3. Student searches among the events.
 5. management for uploads 
-	5.1 manager should be able to verify the handouts
+	5.1 Admin should be able to verify the handouts
+6. Management for Events
+	6.1. Admin can edit the list of the events feeds.
