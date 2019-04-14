@@ -1,5 +1,5 @@
 *Use Case Name: Search Events
-*ID: ?
+*ID: 303
 *Importance Level: Mid
 *Primary Actor: Student
 *Use Case Type: Detail, Essential
