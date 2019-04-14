@@ -1,5 +1,5 @@
 *Use Case Name: Manage Events
-*ID: ?
+*ID: 302
 *Importance Level: High
 *Primary Actor: Admin
 *Use Case Type: Detail, Essential
