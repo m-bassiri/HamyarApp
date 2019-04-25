@@ -1,0 +1,26 @@
+-------
+|Front|
+-------
+*Class Name: Event
+*ID: 301
+*Type: Concrete, Domain
+*Description: Holds the information of events.
+*Associated Use Cases: 303, 304
+*Responsibilities --> Collaborators
+	1- Add Event
+	2- Delete Event
+------
+|Back|
+------
+*Attributes:
+	1- EeventName (String)
+	2- EventCategory (String)
+	3- EventDate (Date)
+	4- EventTime (Time)
+	5- EventLocation (String)
+	6- EventDescription (String)
+	7- EventLink (String)
+*Relationships:
+-Generalization:
+-Aggregation:
+-Other Associations: EventSource

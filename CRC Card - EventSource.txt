@@ -1,0 +1,24 @@
+-------
+|Front|
+-------
+*Class Name: EventSource
+*ID: 300
+*Type: Concrete, Domain
+*Description: Holds the information of events feeds.
+*Associated Use Cases: 302
+*Responsibilities --> Collaborators
+	1- Add Source
+	2- Delete Source
+	3- Edit Source
+	4- Get Events --> Event
+------
+|Back|
+------
+*Attributes:
+	1- SourceName (String)
+	2- SourceFeed (String)
+	3- SourceCategory (String)
+*Relationships:
+-Generalization:
+-Aggregation:
+-Other Associations: Events
