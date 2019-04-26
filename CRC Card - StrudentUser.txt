@@ -1,0 +1,27 @@
+-------
+|Front|
+-------
+*Class Name: StudentUser
+*ID: 303
+*Type: Concrete, Domain
+*Description: Holds the information of student users.
+*Associated Use Cases: 300, 301, 305
+*Responsibilities --> Collaborators
+	1- Edit information
+------
+|Back|
+------
+*Attributes:
+	1- Username (String)
+	2- Password (String)
+	3- FirstName (String)
+	4- LastName (String)
+	5- LastLogin (Timestamp)
+	6- ProfilePhoto (Picture)
+	7- Email (String)
+	8- PhoneNumber (Integer)
+	9- Interests (String)
+*Relationships:
+-Generalization: AdminUser
+-Aggregation:
+-Other Associations:
