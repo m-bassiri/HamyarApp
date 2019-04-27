@@ -1,1 +1,20 @@
-
+-------
+|Front|
+-------
+*Class Name: BookStatus
+*ID: 208
+*Type: Concrete, Domain
+*Description: Hold the status of the book to sell it
+*Associated Use Cases: -
+*Responsibilities --> Collaborators
+	1- the status of book
+------
+|Back|
+------
+*Attributes:
+	8-status (int)
+	
+*Relationships:
+-Generalization:
+-Aggregation :
+-Other Associations:
