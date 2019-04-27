@@ -1,0 +1,28 @@
+-------
+|Front|
+-------
+*Class Name: Book
+*ID: 206
+*Type: Concrete, Domain
+*Description: Hold the information about book 
+*Associated Use Cases: 203, 204, 205
+*Responsibilities --> Collaborators
+	1- Edit or delete the information of book
+	2- request for buy
+------
+|Back|
+------
+*Attributes:
+	1- title (string)
+	2-author (string)
+	3-picture (image) 
+	4-status (BookStatus)
+	5-seller (user*)
+	6-price (int)
+	7-moreDescription (string)
+	8-buyer (user*)
+	
+*Relationships:
+-Generalization:
+-Aggregation : BookStatus,user
+-Other Associations:
