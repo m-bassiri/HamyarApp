@@ -1,0 +1,21 @@
+-------
+|Front|
+-------
+*Class Name: User
+*ID: 207
+*Type: Concrete, Domain
+*Description: search and show my books ,request for buy the book and complete the dealing
+*Associated Use Cases: 201, 202
+*Responsibilities --> Collaborators
+	1- search the book
+	2- change the status of the book
+	3- add book for sell
+------
+|Back|
+------
+*Attributes:
+
+*Relationships:
+-Generalization:
+-Aggregation:
+-Other Associations : Book
