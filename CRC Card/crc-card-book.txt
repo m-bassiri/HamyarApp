@@ -7,8 +7,7 @@
 *Description: Hold the information about book 
 *Associated Use Cases: 203, 204, 205
 *Responsibilities --> Collaborators
-	1- Edit or delete the information of book
-	2- request for buy
+	1- save the information and status about book
 ------
 |Back|
 ------
