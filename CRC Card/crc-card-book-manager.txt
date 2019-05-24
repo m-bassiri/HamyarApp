@@ -1,7 +1,7 @@
 -------
 |Front|
 -------
-*Class Name: User
+*Class Name: BookManager
 *ID: 207
 *Type: Concrete, Domain
 *Description: search and show my books ,request for buy the book and complete the dealing
