@@ -10,6 +10,7 @@
 	1- search the book
 	2- change the status of the book
 	3- add book for sell
+	4- Edit or delete the book
 ------
 |Back|
 ------
